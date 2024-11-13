@@ -1,5 +1,5 @@
 
-# Ejercicio Final: Gestión de Seguros y Asistencias Médicas en Spring Boot con Java
+# Ejercicio: Gestión de Seguros y Asistencias Médicas en Spring Boot con Java
 
 En este ejercicio, desarrollarás una API REST completa en **Spring Boot** para la gestión de seguros médicos (**Seguro**) y asistencias médicas asociadas (**AsistenciaMedica**). Implementarás validaciones, relaciones entre entidades, manejo de excepciones personalizadas y retorno de códigos de estado HTTP adecuados.
 
