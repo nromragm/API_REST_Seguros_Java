@@ -1,6 +1,6 @@
 package com.es.segurosinseguros.exception;
 
-public class BadRequestException  extends RuntimeException {
+public class BadRequestException extends RuntimeException {
 
     private static final String DESCRIPCION = "Bad Request (400)";
 
